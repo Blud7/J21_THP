@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+
+  get '/', to: 'home#sign_in'
   get 'home/sign_in', to: 'home#sign_in'
   get 'static_pages/contact'
   get 'static_pages/team'
