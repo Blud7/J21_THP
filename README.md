@@ -1,6 +1,6 @@
 # The Gossip Project : version Heroku
 
-Lien vers l'application Heroku --> https://warm-plains-57890.herokuapp.com/
+Lien vers l'application Heroku --> https://motherfucking-gossip.herokuapp.com/
 
 
 * Rails version: 5.2.1
