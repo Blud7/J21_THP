@@ -55,6 +55,18 @@
 
  <h3> En attendant, tu peux consulter les gossips ci-dessous : </h3>
 
- Voilà ce que <%= @author %> a balancé : <%= @content %>  <br>
- Voilà ce que <%= @author %> a balancé : <%= @content %>
+ <%=     @gossips = Gossip.all
+  @gossips.each do |key|
+
+      @author = key.author
+      @content = key.content
+
+      puts "Voilà ce que #{@author} a balancé : #{@content}"
+    end %>
+
+
+
+
+
+
 
