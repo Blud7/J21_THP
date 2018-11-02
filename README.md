@@ -1,10 +1,24 @@
-# The Gossip Project : version Heroku
+# README
 
-Lien vers l'application Heroku --> https://motherfucking-gossip.herokuapp.com/
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
+Things you may want to cover:
 
-* Rails version: 5.2.1
-* Ruby version: 2.5.1 (x86_64-darwin17)
+* Ruby version
 
+* System dependencies
 
-Fait par Paul Rivière, THP Toulouse session 6.
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
